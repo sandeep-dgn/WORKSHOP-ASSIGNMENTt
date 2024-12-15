@@ -1,0 +1,14 @@
+book details:
+title=MUNA MADAN, author=LAXMI PRASAD DEVKOTA, price=200, stock=10
+title=MANSAROVAR, author=BP KOIRALA, price=150, stock=5
+title=JIVAN KADA KI PHOOL, author=GHAMAK KUMARI GHIMIRA, price=100, stock=3
+
+students details:
+name=Sandeep, email=sandeep@student.com, id=S001
+name=Aakash, email=aakash@student.com, id=S002
+name=Bishal, email=bishal@student.com, id=S003
+name=Bibek, email=bibek@student.com, id=S004
+name=Bipin, email=bipin@student.com, id=S005
+
+librarian details:
+name=Sasank, email=sasank@lib.com, id=L001
